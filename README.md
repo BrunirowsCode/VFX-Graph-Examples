@@ -8,3 +8,7 @@ Se agrega el efecto de polvo de hada y pasto al master
 **Commit: 06/13/2020**<br>
 Se agrega el efecto visual de Surface Plot al master
 ![Wave Plot Surface](https://github.com/BrunirowsCode/VFX-Graph-Examples/blob/master/Wave.PNG)
+
+**Commit: 06/20/2020**<br>
+Se agrega el efecto visual de los cubos mágicos
+![Magic cubes](https://github.com/BrunirowsCode/VFX-Graph-Examples/blob/master/Cubes.PNG)
