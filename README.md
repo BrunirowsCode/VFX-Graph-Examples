@@ -11,4 +11,4 @@ Se agrega el efecto visual de Surface Plot al master
 
 **Commit: 06/20/2020**<br>
 Se agrega el efecto visual de los cubos mágicos
-![Magic cubes](https://github.com/BrunirowsCode/VFX-Graph-Examples/blob/master/Cubes.PNG)
+![Magic cubes](https://github.com/BrunirowsCode/VFX-Graph-Examples/blob/master/Cubes.png)
